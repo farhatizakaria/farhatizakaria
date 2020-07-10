@@ -11,4 +11,3 @@ Hi, I'm Zakaria a Machine Learning student from Morocco 🇲🇦
 - 💬 Ask me about anything
 - 📫 How to reach me: https://twitter.com/farhati_zakaria
 - ⚡ Fun fact: Keep laughing and smiling to burn many calories of fats
--->
