@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Hi, I'm Zakaria a Machine Learning student, interested at astronomy, physics and maths from Morocco 🇲🇦
+Hi, I'm Zakaria a Machine Learning self-student, interested in Hacking, Machine Learning and Web Development 👨🏻‍💻 from Morocco 🇲🇦
 
 - 🔭 I’m currently working on Blogger, YouTube Content Creature
 - 🌱 I’m currently learning Python, Machine Learning and trying to get a large knowledge about websites developmenet and cyber security
