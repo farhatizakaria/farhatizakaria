@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Zakaria Farhati 👋
 
-<!--
-**farhatizakaria/farhatizakaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🖥️ Networking and System Administration Student  
+Currently honing my IT skills and passionate about improving open source projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- **[CiscoPacketTracer-Ubuntu_24.10](https://github.com/farhatizakaria/CiscoPacketTracer-Ubuntu_24.10)**  
+  Easy setup for Cisco Packet Tracer 8.2 on Ubuntu 24.10 or newer version.
+
+- **[OfficeClickToRun-Detector](https://github.com/farhatizakaria/OfficeClickToRun-Detector)**  
+  Utility for detecting and stopping Microsoft Office Click-to-Run process in the background.
+
+- **[openSUSE-slowroll-codecs](https://github.com/farhatizakaria/openSUSE-slowroll-codecs)**  
+  Scripts to install codecs on openSUSE Slowroll.
+
+- **[PacketTracer-OpenSUSE](https://github.com/farhatizakaria/PacketTracer-OpenSUSE)**  
+  Guide for running Packet Tracer 8.2 on openSUSE.
+
+---
+
+## 💡 About Me
+- 🎓 Networking & System Administration student.
+- 🌱 Always learning, always experimenting.
+- 🛠️ Interested in open source, Linux, and IT automation.
+- 💬 Let’s collaborate to make tech better for everyone!
+
+---
+
+## 🌐 Connect with Me
+
+- [GitHub](https://github.com/farhatizakaria)
+
+
+> "Passionate about technology and open source. Let's build something great together!"
