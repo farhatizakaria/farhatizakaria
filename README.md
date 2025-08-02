@@ -1,9 +1,8 @@
 # Hi there, I'm Zakaria Farhati 👋
 
 ### 🖥️ Networking and System Administration Student  
-Currently honing my IT skills and passionate about improving open source projects.
+Currently honing my IT skills and passionate about networking, system administration, cybersecurity and improving open source projects.
 
----
 
 ## 🚀 Featured Projects
 - **[CiscoPacketTracer-Ubuntu_24.10](https://github.com/farhatizakaria/CiscoPacketTracer-Ubuntu_24.10)**  
@@ -18,7 +17,7 @@ Currently honing my IT skills and passionate about improving open source project
 - **[PacketTracer-OpenSUSE](https://github.com/farhatizakaria/PacketTracer-OpenSUSE)**  
   Guide for running Packet Tracer 8.2 on openSUSE.
 
----
+
 
 ## 💡 About Me
 - 🎓 Networking & System Administration student.
@@ -26,7 +25,7 @@ Currently honing my IT skills and passionate about improving open source project
 - 🛠️ Interested in open source, Linux, and IT automation.
 - 💬 Let’s collaborate to make tech better for everyone!
 
----
+
 
 ## 🌐 Connect with Me
 
