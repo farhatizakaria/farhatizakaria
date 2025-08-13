@@ -6,7 +6,7 @@ Currently honing my IT skills and passionate about networking, system administra
 
 ## 🚀 Featured Projects
 - **[packet-tracer-ubuntu-deps](https://github.com/farhatizakaria/packet-tracer-ubuntu-deps)**  
-  Easy setup for Cisco Packet Tracer 8.2 on Ubuntu 24.10 or newer version.
+  Easy setup for Cisco Packet Tracer 8.2 on Debian 13, Ubuntu 24.04 or newer version.
 
 - **[OfficeClickToRun-Detector](https://github.com/farhatizakaria/OfficeClickToRun-Detector)**  
   Utility for detecting and stopping Microsoft Office Click-to-Run process in the background.
