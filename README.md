@@ -5,7 +5,7 @@ Currently honing my IT skills and passionate about networking, system administra
 
 
 ## 🚀 Featured Projects
-- **[CiscoPacketTracer-Ubuntu_24.10](https://github.com/farhatizakaria/CiscoPacketTracer-Ubuntu_24.10)**  
+- **[packet-tracer-ubuntu-deps](https://github.com/farhatizakaria/packet-tracer-ubuntu-deps)**  
   Easy setup for Cisco Packet Tracer 8.2 on Ubuntu 24.10 or newer version.
 
 - **[OfficeClickToRun-Detector](https://github.com/farhatizakaria/OfficeClickToRun-Detector)**  
