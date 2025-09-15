@@ -3,6 +3,14 @@
 ### 🖥️ Networking and System Administration Student  
 Currently honing my IT skills and passionate about networking, system administration, cybersecurity and improving open source projects.
 
+### My favorite Linux distros
+Reject Windows and Embrace Linux
+
+| I use btw |
+| -------- |
+| ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)    |
+| ![OpenSUSE](https://img.shields.io/badge/openSUSE-73BA25?style=flat&logo=SUSE&logoColor=white)    |
+
 
 ## 🚀 Featured Projects
 - **[packet-tracer-ubuntu-deps](https://github.com/farhatizakaria/packet-tracer-ubuntu-deps)**  
