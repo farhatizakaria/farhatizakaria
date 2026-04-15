@@ -16,7 +16,7 @@
 
 IT Technician, focused on network administration, security patching, and infrastructure automation. I spend my free time contributing to open source, learning for my CCNA, and building tools that make IT life easier.
 
-- 🎓 Technicien Spécialisé in Infrastructure Digitale — Systèmes & Réseaux (ISTA/OFPPT, 2025)
+- 🎓 IT Technician - Network and System Administration
 - 🔐 Working with Cisco IOS/IOS-XE, Active Directory, VMware vSphere, CrowdStrike, Forescout NAC
 - 📡 Currently self-studying 
 - 🛠️ Automating everything I can with Python, Ansible, and PowerShell
