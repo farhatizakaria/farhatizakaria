@@ -30,7 +30,7 @@ IT Technician, focused on network administration, security patching, and infrast
 |---|---|
 | ![Fedora Kinoite](https://img.shields.io/badge/Fedora%20Kinoite-51A2DA?style=flat-square&logo=fedora&logoColor=white) | Daily driver (immutable KDE/Wayland) |
 | ![Debian](https://img.shields.io/badge/Debian%2013-A81D33?style=flat-square&logo=debian&logoColor=white) | Distrobox container for workflows |
-| ![openSUSE](https://img.shields.io/badge/openSUSE-73BA25?style=flat-square&logo=opensuse&logoColor=white) | Lab & testing |
+| ![openSUSE](https://img.shields.io/badge/openSUSE-73BA25?style=flat-square&logo=opensuse&logoColor=white) | Daily driver (Leap 16/GNOME/Wayland) |
 
 ---
 
