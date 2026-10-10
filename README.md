@@ -14,23 +14,14 @@
 
 ## About Me
 
-IT Technician, focused on network administration, security patching, and infrastructure automation. I spend my free time contributing to open source, learning for my CCNA, and building tools that make IT life easier.
+IT Technician, focused on network administration, security patching, and infrastructure automation. I spend my free time contributing to open source, learning sysadmin, network, cybersecurity, vibecoding, and building tools that make IT life easier.
 
 - 🎓 IT Technician - Network and System Administration
-- 🔐 Working with Cisco IOS/IOS-XE, Active Directory, VMware vSphere, CrowdStrike, Forescout NAC
-- 📡 Currently self-studying 
+- 🔐 Working with Cisco IOS/IOS-XE, Active Directory, VMware vSphere, SCCM
+- 📡 Currently self-studying, and vibe coding too much tools that make life easier
 - 🛠️ Automating everything I can with Python, Ansible, and PowerShell
 - 🌱 Always learning, always breaking things in a lab first
 
----
-
-## 🐧 Daily Drivers
-
-| Distro | Role |
-|---|---|
-| ![Fedora Kinoite](https://img.shields.io/badge/Fedora%20Kinoite-51A2DA?style=flat-square&logo=fedora&logoColor=white) | Daily driver (immutable KDE/Wayland) |
-| ![Debian](https://img.shields.io/badge/Debian%2013-A81D33?style=flat-square&logo=debian&logoColor=white) | Distrobox container for workflows |
-| ![openSUSE](https://img.shields.io/badge/openSUSE-73BA25?style=flat-square&logo=opensuse&logoColor=white) | Daily driver (Leap 16/GNOME/Wayland) |
 
 ---
 
@@ -60,6 +51,6 @@ IT Technician, focused on network administration, security patching, and infrast
 
 <div align="center">
 
-*Reject Windows. Embrace Linux. Automate the rest.*
+*Embrace Windows, or Embrace Linux. Automate the rest.*
 
 </div>
